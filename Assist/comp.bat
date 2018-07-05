@@ -1,3 +1,4 @@
+:: 在rand.exe存在的情况下,对my.exe和std.exe进行对拍
 @echo off  
 :loop  
     rand.exe %random% > data.in
