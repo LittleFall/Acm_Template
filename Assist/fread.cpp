@@ -1,4 +1,4 @@
-//fread.cpp 快速输入输出int
+//fread.cpp 快速输入输出
 inline int read()
 {
     int x=0,f=1;char ch=getchar();
