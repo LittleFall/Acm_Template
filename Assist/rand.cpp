@@ -1,4 +1,4 @@
-//rand.cpp 随机数据生成程序
+//rand.cpp 随机数据生成
 #include<bits/stdc++.h>
 using namespace std;
 #define random(a,b) ((a)+rand()*rand()%((b)-(a)+1))
